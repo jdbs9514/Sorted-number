@@ -8,7 +8,7 @@ This project will help you understand the fundamental concepts behind these algo
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://voluble-tulumba-f97117.netlify.app/)
+[Live Demo Link](https://polite-cannoli-b25d45.netlify.app/)
 
 
 ## Authors
